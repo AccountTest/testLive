@@ -1,0 +1,6 @@
+<html>
+  <body>
+    troplolol
+    <b>Bouh ! </b>
+  </body>
+</html>
